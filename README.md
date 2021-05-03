@@ -5,3 +5,6 @@ funnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnguuuuuuuuuuuuuuuuuje uvuduim deskop
 This repository is built step by step in the tutorial.
 
 daaaaaaaaaaaaaaaaaaaaalsi zmeeeeeeeeeeeeeeeenaaaaaaaa 
+
+
+staci pridat novyy radek jako aby byla videtd zmena
